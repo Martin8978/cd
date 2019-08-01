@@ -1,0 +1,13 @@
+{
+"companyName": "Cydlock",
+"productName": "Cydlock_Gallery_Julio_2019",
+"dataUrl": "Cydlock_Gallery_Julio_2019_31_webgl.data.unityweb",
+"wasmCodeUrl": "Cydlock_Gallery_Julio_2019_31_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cydlock_Gallery_Julio_2019_31_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
